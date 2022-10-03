@@ -1,5 +1,9 @@
 #manual {
-  font-family: Arial, sans-serif;
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+#manual-text{
+  font-family: Arial,Helvetica,sans-serif;
 }
 
 .info-btn {
